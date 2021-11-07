@@ -3,7 +3,7 @@
 <h1 align="center">hi 👋, I'm avni</h1>
 <h3 align="center">a passionate fullstack developer</h3>
 
-- 📫 How to reach me **avnignc [at] gmail.com**
+- 📫  How to reach me **avnignc[at]gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
